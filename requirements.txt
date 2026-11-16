@@ -1,0 +1,10 @@
+torch
+torchvision
+xformers
+numpy
+pandas
+scipy
+scikit-learn
+six
+loguru
+tqdm
